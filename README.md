@@ -2,7 +2,7 @@ MortalFlesh.github.io
 =====================
 
 ## Github
-https://github.com/MortalFlesh
+[https://github.com/MortalFlesh](https://github.com/MortalFlesh)
 
 ### Interesting projects:
 - PHP Collections
@@ -11,4 +11,4 @@ https://github.com/MortalFlesh
 
 - Hangman game by [SAFE stack](https://safe-stack.github.io/)
     - [repository](https://github.com/MortalFlesh/safe-hangman)
-    - [example](https://github.com/MortalFlesh/safe-hangman) - TODO
+    - [example](https://mortalflesh.github.io/safe-hangman/)
